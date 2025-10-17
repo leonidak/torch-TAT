@@ -1,0 +1,4 @@
+numpy
+scipy
+torch
+if GPU is present, CUDA libraries should be installed
